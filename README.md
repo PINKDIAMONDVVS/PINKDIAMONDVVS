@@ -1,6 +1,6 @@
-### Hi there 👋
-### My name is PINKDIAMONDVVS, I'm a react/next js developer
-## Nice to meet you
+### HI THERE 👋
+#### My name is PINKDIAMONDVVS, I'm a react/next js developer
+
 
 ### OUTERSPACE STUDIO
 If you need help with application development, please feel free to contact us
