@@ -1,7 +1,7 @@
 ### HI THERE 👋
 #### My name is PINKDIAMONDVVS, I'm a react/next js developer of
 
-### OUTERSPACE STUDIO
+### OUTERSPACE APP DEVELOPMENT STUDIO
 If you need help with application development, please feel free to contact us here: 
 https://outerspace.ai/
 
