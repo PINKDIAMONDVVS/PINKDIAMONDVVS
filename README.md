@@ -1,8 +1,6 @@
 ### Hi there 👋
-## My name is JC!
-# hello
-abcd   
-cdef
+## My name is PINKDIAMONDVVS
+# React/Next Developer
 <!--
 **PINKDIAMONDVVS/PINKDIAMONDVVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
