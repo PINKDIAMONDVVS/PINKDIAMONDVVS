@@ -11,7 +11,7 @@ https://outerspace.ai/
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-         <h4> 🚀 &nbsp;Develop Environment</h4> 
+         <span>Coding Language</span>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="js" width="45" height="45"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="45" height="45"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
