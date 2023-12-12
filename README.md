@@ -62,7 +62,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=merko&show_icons=true)](https://github.com/pinkdiamondvvs/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkdiamondvvs&theme=merko&show_icons=true)](https://github.com/pinkdiamondvvs/github-readme-stats)
 
                     
 
