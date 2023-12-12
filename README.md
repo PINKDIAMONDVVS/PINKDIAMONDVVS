@@ -1,14 +1,3 @@
-### Hi there 👋
-* 👂 My name is PINKDIAMONDVVS
-* 🔭 I’m currently working on Fashion Virtual Fitting Technology
-* 📫 How to reach me: info@pinkdiamondvvs.com
-* ❤️ I love Sushi
-#### My name is PINKDIAMONDVVS, I'm a react/next js developer of
-
-### OUTERSPACE APP DEVELOPMENT STUDIO
-If you need help with application development, please feel free to contact us here: 
-https://outerspace.ai/
-
 <h3> &#x1F521; &nbsp;Coding Language</h3>
 <p align="left">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="js" width="45" height="45"/>
@@ -26,7 +15,7 @@ https://outerspace.ai/
            
 </p>
 
-<h3> 🚀 &nbsp;Develop Environment</h3>
+<h3> &#x1F305; &nbsp;Develop Environment</h3>
 <p align="left">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
@@ -48,7 +37,7 @@ https://outerspace.ai/
           
 </p>
 
-<h3> 🚀 &nbsp;Library & Framework</h3>
+<h3> &#x1F4DA; &nbsp;Library & Framework</h3>
 <p align="left">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
@@ -68,7 +57,7 @@ https://outerspace.ai/
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle" width="45" height="45"/>
 </p>
 
-<h3> 🚀 &nbsp;Visual Design</h3>
+<h3> &#x1F3A8; &nbsp;Visual Design</h3>
 <p align="left">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="45" height="45"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="45" height="45"/>
@@ -76,7 +65,9 @@ https://outerspace.ai/
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="maya" width="45" height="45"/>
 </p>
 
-
+### ROOT FASHION - FASHION VIRTUAL DESIGN & FITTING TECHNOLOGY
+If you need help with application development, please feel free to contact us here: 
+info@pinkdiamondvvs.com
 
 
 
