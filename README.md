@@ -62,7 +62,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PINKDIAMONDVVS)](https://github.com/PINKDIAMONDVVS/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PINKDIAMONDVVS)](https://github.com/PINKDIAMONDVVS/github-readme-stats)
          
                     
 
