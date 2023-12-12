@@ -60,7 +60,7 @@
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="maya" width="30" height="30"/>
 </p>
 
-
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkdiamondvvs&theme=merko&show_icons=true)](https://github.com/pinkdiamondvvs/github-readme-stats)
 
