@@ -1,4 +1,4 @@
-<h4> &#x1F521; &nbsp;Coding Language</h4>
+<h4> &#x1F521; &nbsp;Language</h4>
 <p align="left">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="js" width="30" height="30"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="30" height="30"/>
@@ -12,10 +12,8 @@
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30" height="30"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="30" height="30" />          
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-           
 </p>
-
-<h4> &#x1F305; &nbsp;Develop Environment</h4>
+<h4> &#x1F305; &nbsp;Environment</h4>
 <p align="left">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
@@ -34,10 +32,8 @@
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="30" height="30"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="firefox" width="30" height="30"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" alt="safari" width="30" height="30"/>
-          
 </p>
-
-<h4> &#x1F4DA; &nbsp;Library & Framework</h4>
+<h4> &#x1F4DA; &nbsp;Frameworks</h4>
 <p align="left">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30" height="30"/>
@@ -56,18 +52,13 @@
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle" width="30" height="30"/>
 </p>
-
-<h4> &#x1F3A8; &nbsp;Visual Design</h4>
+<h4> &#x1F3A8; &nbsp;Design</h4>
 <p align="left">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="30" height="30"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="30" height="30"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="maya" width="30" height="30"/>
 </p>
-
-### ROOT FASHION - FASHION VIRTUAL DESIGN & FITTING TECHNOLOGY
-If you need help with application development, please feel free to contact us here: 
-info@pinkdiamondvvs.com
 
 
 
