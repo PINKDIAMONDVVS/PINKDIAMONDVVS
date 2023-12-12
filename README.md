@@ -63,7 +63,7 @@
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkdiamondvvs&theme=merko&show_icons=true)](https://github.com/pinkdiamondvvs/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pinkdiamondvvs)](https://github.com/pinkdiamondvvs/github-readme-stats)
                     
 
                     
