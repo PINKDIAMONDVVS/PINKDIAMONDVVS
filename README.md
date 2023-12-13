@@ -1,18 +1,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,cs,cpp,aws,blender,cloudflare,discord,docker,dotnet,eclipse,gcp,idea,ai,ps,java,linux,mongodb,mysql,nestjs,nextjs,netlify,postman,r,react,redux,sketchup,solidity,tailwind,tensorflow,threejs,unity,unreal,vercel,visualstudio,vscode,vite)](https://skillicons.dev)
 <h4> &#x1F521; &nbsp;Language</h4>
 <p align="left">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="js" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="30" height="30" />
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30" />
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="30" height="30" />          
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,py,cpp,cs,dotnet,java,mysql,r,solidity)](https://skillicons.dev)
 </p>
 <h4> &#x1F305; &nbsp;Environment</h4>
 <p align="left">
