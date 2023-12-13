@@ -64,7 +64,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkdiamondvvs&theme=merko&hide=contribs,prs,issues_icons=true)](https://github.com/pinkdiamondvvs/github-readme-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkdiamondvvs&layout=compact&theme=merko)](https://github.com/pinkdiamondvvs/github-readme-stats)
+<img src="https://wakatime.com/share/@PINKDIAMONDVVS/f5516b55-8749-44ac-a978-20579f83aa12.svg" height="400" />
                     
           
 <!--START_SECTION:waka-->
