@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,blender,cs,cpp,cloudflare,discord,docker,dotnet,eclipse,gcp,idea,ai,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,cs,cpp,aws,blender,cloudflare,discord,docker,dotnet,eclipse,gcp,idea,ai,ps,java,linux,mongodb,mysql,nestjs,nextjs,netlify,postman,r,react,redux,sketchup,solidity,tailwind,tensorflow,threejs,unity,unreal,vercel,visualstudio,vscode,vite)](https://skillicons.dev)
 <h4> &#x1F521; &nbsp;Language</h4>
 <p align="left">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="js" width="30" height="30"/>
