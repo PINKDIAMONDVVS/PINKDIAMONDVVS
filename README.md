@@ -1,54 +1,5 @@
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,cs,cpp,aws,blender,cloudflare,discord,docker,dotnet,eclipse,gcp,idea,ai,ps,java,linux,mongodb,mysql,nestjs,nextjs,netlify,postman,r,react,redux,sketchup,solidity,tailwind,tensorflow,threejs,unity,unreal,vercel,visualstudio,vscode,vite)](https://skillicons.dev)
-<h4> &#x1F521; &nbsp;Language</h4>
-<p align="left">
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,py,cpp,cs,dotnet,java,mysql,r,solidity)](https://skillicons.dev)
-</p>
-<h4> &#x1F305; &nbsp;Environment</h4>
-<p align="left">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unrealgngine" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="30" height="30"/> 
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="firefox" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" alt="safari" width="30" height="30"/>
-</p>
-<h4> &#x1F4DA; &nbsp;Frameworks</h4>
-<p align="left">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg" alt="nodewebkit" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="threejs" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslint" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="opengl" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle" width="30" height="30"/>
-</p>
-<h4> &#x1F3A8; &nbsp;Design</h4>
-<p align="left">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="30" height="30"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="maya" width="30" height="30"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,tailwind,cpp,cs,dotnet,java,r,mysql,solidity,aws,gcp,cloudflare,discord,docker,postman,visualstudio,vscode,eclipse,idea,linux,mongodb,nestjs,nextjs,netlify,react,redux,vercel,vite,threejs,tensorflow,ai,ps,blender,sketchup,unity,unreal)](https://skillicons.dev)
+
 
 <br/>
 
