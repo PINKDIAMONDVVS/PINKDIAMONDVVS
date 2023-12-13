@@ -1,3 +1,4 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <h4> &#x1F521; &nbsp;Language</h4>
 <p align="left">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="js" width="30" height="30"/>
