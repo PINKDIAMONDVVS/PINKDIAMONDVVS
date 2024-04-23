@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,tailwind,cpp,cs,dotnet,java,r,mysql,solidity,aws,gcp,git,github,cloudflare,discord,docker,postman,webpack,mongodb,visualstudio,vscode,eclipse,idea,linux,react,nextjs,nodejs,netlify,redux,vercel,nestjs,threejs,vite,tensorflow,ipfs,ai,ps,blender,sketchup,unity,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,tailwind,cpp,cs,dotnet,java,r,mysql,solidity,aws,gcp,git,github,cloudflare,discord,docker,postman,webpack,mongodb,kali,visualstudio,vscode,eclipse,idea,linux,npm,react,nextjs,nodejs,netlify,redux,vercel,nestjs,threejs,vite,tensorflow,ipfs,ai,ps,blender,sketchup,unity,unreal)](https://skillicons.dev)
 
 
 <br/>
