@@ -1,6 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,tailwind,cpp,cs,dotnet,java,r,mysql,solidity,aws,gcp,git,github,cloudflare,discord,docker,postman,webpack,mongodb,kali,visualstudio,vscode,eclipse,idea,linux,npm,react,nextjs,nodejs,netlify,redux,vercel,nestjs,threejs,vite,tensorflow,ipfs,ai,ps,blender,sketchup,unity,unreal)](https://skillicons.dev)
 
-
+- Research blog: [https://junyic.blogspot.com/](https://junyic.blogspot.com/)
 <br/>
 
 [![wakatime](https://wakatime.com/badge/user/018c604f-cd4b-4cdf-b85e-19fa3942730a.svg)](https://wakatime.com/@018c604f-cd4b-4cdf-b85e-19fa3942730a)
