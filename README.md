@@ -2,7 +2,7 @@
 <br/>
 [Portfolio Website](https://pinkdiamondvvs.com/)
 <br/>
- [Research Blog](https://junyic.blogspot.com/)
+[Research Blog](https://junyic.blogspot.com/)
 <br/>
 <br/>
 
