@@ -1,13 +1,13 @@
 <h3>Computer Graphic, Immersive Media, App Development. </h3>
 <br/>
 
-[![wakatime](https://wakatime.com/badge/user/018c604f-cd4b-4cdf-b85e-19fa3942730a.svg)](https://wakatime.com/@018c604f-cd4b-4cdf-b85e-19fa3942730a)
-<br/>
-
 [Portfolio Website](https://pinkdiamondvvs.com/)
 <br/>
 
 [Research Blog](https://junyic.blogspot.com/)
+<br/>
+
+[![wakatime](https://wakatime.com/badge/user/018c604f-cd4b-4cdf-b85e-19fa3942730a.svg)](https://wakatime.com/@018c604f-cd4b-4cdf-b85e-19fa3942730a)
 <br/>
 <br/>
 
