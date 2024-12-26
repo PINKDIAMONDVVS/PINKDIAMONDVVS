@@ -1,4 +1,4 @@
-<h3>Computer Graphic, Immersive Media, App Development. </h3>
+<h3>Artificial Intelligence, Software Development, Computer Graphic, Immersive Media. </h3>
 <br/>
 
 [Portfolio Website](https://pinkdiamondvvs.com/)
