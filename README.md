@@ -1,6 +1,6 @@
 # Hi there, I'm Junyi 👋
 
-My career has been a journey through both creative and technical fields, driven by an interest in solving creative challenges with technology. I have had the opportunity to work in various roles, from product development to AI/ML and software development, and my focus is on connecting traditional creative processes with modern technological innovations.
+I have had the opportunity to work in various roles, from product development to AI/ML and software development. I'm passionate about solving creative challenges with modern technological innovations.
 
 My work is focused on three areas:
 
