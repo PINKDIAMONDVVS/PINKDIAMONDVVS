@@ -2,7 +2,7 @@
 
 I have had the opportunity to work in various roles, from product development to AI/ML and software development. I'm passionate about solving creative challenges with modern technological innovations.
 
-My work is focused on three areas:
+My work is focused on:
 
 1.  **AI/ML Research & Development:** My work in this area involves architecting and implementing advanced systems. This includes building **agentic workflows**, **Retrieval-Augmented Generation (RAG)**, and **function calling** using various frameworks. I have hands-on experience in **fine-tuning** large models and am familiar with emerging standards like **Model Context Protocol (MCP)**.
 
