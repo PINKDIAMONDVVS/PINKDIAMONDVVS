@@ -188,9 +188,9 @@ My work is focused on three areas:
 
 ### 📫 Let's Connect
 
-* **[Portfolio Website](https://pinkdiamondvvs.com/)**
-* **[Research Blog](https://junyic.blogspot.com/)**
-* **[LinkedIn Profile](https://www.linkedin.com/in/junyichen531)**
+* **<a href="https://pinkdiamondvvs.com/" target="_blank">Portfolio Website</a>**
+* **<a href="https://junyic.blogspot.com/" target="_blank">Research Blog</a>**
+* **<a href="https://www.linkedin.com/in/junyichen531" target="_blank">LinkedIn Profile</a>**
 
 ---
 
